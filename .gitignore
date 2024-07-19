@@ -52,7 +52,6 @@ typings/
 *.tgz
 
 # dotenv environment variables file
-.env
 
 # gatsby files
 .cache/
@@ -71,5 +70,5 @@ yarn-error.log
 
 
 .nvmrc
-.vscode/settings.json
 package-lock.json
+config.bat
